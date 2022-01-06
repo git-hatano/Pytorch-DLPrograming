@@ -2,6 +2,8 @@
 
 [オリジナルのリポジトリへのリンク](https://github.com/makaishi2/pytorch_book_info/blob/main/notebooks.md)
 
+重たい？ノートブックはGithubにコピーできていない
+
 |章|タイトル|
 |---|---|
 |序章|はじめに|
